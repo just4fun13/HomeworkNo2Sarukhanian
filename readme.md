@@ -41,4 +41,4 @@ pip install jupyter datasets pandas numpy matplotlib seaborn
 
 - [Источник данных RFSD](https://github.com/irlcode/RFSD)
 - [Датасет на Hugging Face](https://huggingface.co/datasets/irlspbru/RFSD)
-- [Репозиторий с выполненной работой](https://github.com/USERNAME/REPOSITORY)
+- [Репозиторий с выполненной работой](https://github.com/just4fun13/HomeworkNo2Sarukhanian/)
